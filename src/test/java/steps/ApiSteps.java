@@ -14,7 +14,6 @@ import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
 import org.aeonbits.owner.ConfigFactory;
 import org.assertj.core.api.SoftAssertions;
-import org.junit.Assert;
 import pojo.error.CurrentErrorResponseBody;
 import pojo.responce.CurrentResponseBody;
 
